@@ -1,33 +1,42 @@
 # 👋 Hi, I'm Ashritha Sankineni
 
-🚀 Data Engineer | Azure & Databricks Certified | Building Intelligent, Scalable Data Systems
+Senior Data Engineer | Data Quality | Modern Data Platforms | LLM-Enabled Insights
 
-Welcome to my GitHub! I specialize in designing end-to-end data pipelines—both batch and streaming—that power data-driven products at scale.
+I build **production-inspired data systems** that are scalable, observable, and intelligent.
 
-## 💼 What I Do
-- 🌊 Real-time & batch data processing using Kafka, Spark, and Delta Lake
-- 🏗️ Cloud-native architecture with Azure & Databricks
-- 📈 ML pipeline integration using Feature Store, MLflow & Vector Search
-- 📦 Data modeling & ETL orchestration with dbt, LakeFlow & Airflow
+🔭 I’m currently focused on:
+- Data engineering with **Apache Spark**, **Delta Lake**, and **Databricks**
+- Building robust **data quality frameworks** (DQ pipelines, observability)
+- Integrating **LLM-based explainability** into data workflows
+- Modern analytics stacks with **Snowflake** and OLAP optimization
 
-## 🛠️ Tech Stack
-**Languages:** Python, SQL, PySpark  
-**Frameworks:** Spark, Databricks, Kafka, MLflow  
-**Cloud & Tools:** Azure, Delta Lake, LakeFlow, dbt, GitHub Actions
+🚀 I’m passionate about:
+- Clean architecture across Bronze / Silver / Gold layers
+- Turning noisy event systems into trusted analytics
+- Democratizing insights with **LLM summaries & narrative explanations**
+- End-to-end data ownership — from ingestion through observability
 
+### 💡 Core Skills
+**Big Data & Cloud**
+- Spark / PySpark | Databricks | Delta Lake
+- Snowflake (data modeling, performance tuning)
+- Kafka / Event Hubs (streaming concepts)
+- Azure Data Factory / orchestration
 
-## 🧠 Certifications
-- ✅ Databricks Certified Data Engineer
+**Data Quality & Observability**
+- Rule-based DQ (missing fields, anomaly detection)
+- Metrics, dashboards, drift monitoring
+- Systematic isolation of bad data
 
+**AI / LLM Integration**
+- LLM-based explainability for data incidents
+- Narrative summarization & triage prompts
+- Groq / OpenAI-style integration patterns
 
-## 📌 Currently Working On
-- An enterprise-ready data product portfolio for real-time analytics and ML
-- Sharing technical blogs and system design walkthroughs soon
+### 📁 Featured Projects
+- **Real-Time Data Quality Monitor** — Enterprise-style DQ pipeline with optional LLM explainability
 
-## 📬 Let's Connect
-[LinkedIn](https://www.linkedin.com/in/ashritha-s-0651a9140/) 
-
----
-🌟 Thanks for stopping by!
-
+### 📫 How to reach me
+LinkedIn: https://www.linkedin.com/in/ashritha-sankineni  
+Email: sankineni.ashritha@gmail.com
 
